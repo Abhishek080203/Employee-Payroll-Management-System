@@ -44,7 +44,7 @@ ADMIN DASHBOARD:<br>
 
 
 EMPLOYEE DASHBOARD:<br>
-![image](S1.png)
+![image](S5.png)
 
 
 PAYSLIP:<br>
