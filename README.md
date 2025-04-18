@@ -34,7 +34,7 @@ A digital solution for managing employee data, salaries, leave applications, and
 
 # SCREENSHOTS
 MAIN SCREEN:<br>
-![image](S5)
+![image](S4.png)
 
 ADMIN DASHBOARD:<br>
 
@@ -44,7 +44,7 @@ ADMIN DASHBOARD:<br>
 
 
 EMPLOYEE DASHBOARD:<br>
-![image](S4.png)
+![image](S1.png)
 
 
 PAYSLIP:<br>
